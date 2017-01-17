@@ -1,0 +1,7 @@
+"use strict";
+var platform_browser_dynamic_1 = require("@angular/platform-browser-dynamic");
+var app_module_1 = require("./app.module");
+var UrlResolverInterceptor_1 = require("./UrlResolverInterceptor");
+UrlResolverInterceptor_1.UrlResolverInterceptor.attach();
+platform_browser_dynamic_1.platformBrowserDynamic().bootstrapModule(app_module_1.AppModule);
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIm1haW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLDhFQUEyRTtBQUUzRSwyQ0FBeUM7QUFDekMsbUVBQWtFO0FBR2xFLCtDQUFzQixDQUFDLE1BQU0sRUFBRSxDQUFDO0FBQ2hDLGlEQUFzQixFQUFFLENBQUMsZUFBZSxDQUFDLHNCQUFTLENBQUMsQ0FBQyJ9
