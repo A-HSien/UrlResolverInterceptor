@@ -7,6 +7,6 @@ and the demo here is just for the same purpose, but by another way.
 I don't know which way is better, maybe is the inheritance way. 
 just for you a reference~
 
-run command `npm i` to install packages.
-run command `npm run tsc` to compile.
-run command `npm run serve` to activate the demo site.
+1. run command `npm i` to install packages.
+1. run command `npm run tsc` to compile.
+1. run command `npm run serve` to activate the demo site.
